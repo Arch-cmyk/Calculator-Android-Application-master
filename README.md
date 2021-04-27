@@ -1,2 +1,3 @@
-# Calculator-Android-Application-master
-Contains code for the Andorid Application- Calculator 
+# Calculator-Android-Application
+
+Application for Android OS wriiten in Java and XML.
